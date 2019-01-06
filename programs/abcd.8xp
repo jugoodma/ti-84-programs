@@ -1,0 +1,1 @@
+SIGNATURE        : **TI83F*EXTRA SIGNATURE  : 1a0a00COMMENT          : Created by SourceCoder 3 - sc.cemetech.netENTRY LENGTH     : 36 bytes11 OR 13         : 13PROGRAM LENGTH   : 17 bytesVARIABLE TYPE ID : 05
